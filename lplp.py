@@ -1,10 +1,10 @@
 def info(name):
-    print("Hey there",name,"welcome to our community!")
+    print("Hey there "+ name)
 
 
-person = {
-    "name": "Bob",
+per = {
+    "name": "Sam",
     "age": 21,
-    "country": "USA" 
+    "job": "actress"
 }
-
+    
